@@ -1,4 +1,4 @@
-# Maintainer: cublueer <cublueer@users.noreply.github.com>
+# Maintainer: cublueer <starriver_alvin@163.com>
 #
 # octa-term：终端无感数学计算（系统 GNU Octave）
 # 从 v${pkgver} 标签源码构建。标签不存在时 `makepkg` 拉取会失败，

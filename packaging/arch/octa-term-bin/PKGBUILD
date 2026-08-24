@@ -1,4 +1,4 @@
-# Maintainer: cublueer <cublueer@users.noreply.github.com>
+# Maintainer: cublueer <starriver_alvin@163.com>
 #
 # octa-term-bin：下载 GitHub Release 上预编译的 pkg.tar.zst 并安装，
 # 无需本机编译。资产由 packaging/arch/octa-term（源码包）构建后上传：
